@@ -2,7 +2,6 @@
 <h3 align="center"> I'm a self taught coding enthusiast. I'm a huge fan of React, Node.js, TypeScript, flutter, open-source, and writing testable software 💻. When I'm not crushing bugs or writing code, I can be found reading biographies, cycling, swimming, lifting weights 🏋️, and spending time with my beautiful family ❤️</h3>
 
 - 🔭 I’m currently working on [Building local artisan services access platfrom in Nigeria (360fix)](https://github.com/hi-deen/360fix_mobile)
-- 
 - 🔭 I’ve built an [anonymous-messaging App](https://anonymous-message-wxfm.onrender.com/)
 
 - 📫 How to reach me **hishamadam77@gmail.com**
