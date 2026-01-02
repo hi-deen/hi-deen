@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Building local artisan services access platfrom in Nigeria (360fix)](https://github.com/hi-deen/360fix_mobile)
 - 
-- 🔭 I’ve built [Anonymous-messaging App](https://anonymous-message-wxfm.onrender.com/)
+- 🔭 I’ve built an [anonymous-messaging App](https://anonymous-message-wxfm.onrender.com/)
 
 - 📫 How to reach me **hishamadam77@gmail.com**
 
